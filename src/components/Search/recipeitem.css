@@ -1,0 +1,145 @@
+.containeritem {
+    margin-top: 2rem;
+    width: 510px;
+    height: auto;
+    left: 585px;
+    border: 10px;
+    border-color: brown;
+    border-radius: 30px;
+    background-color: antiquewhite;
+    padding: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.rating {
+    font-weight: bold;
+    color: brown;
+    margin: 5px;
+    font-size: 20px;
+}
+
+.servings {
+    margin: 5px;
+}
+
+.fa-cart-shopping {
+    background-color: brown;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 3rem;
+    padding: 0.5em;
+    position: relative;
+    left: 26.5rem;
+    top: -9rem;
+}
+
+.fa-cart-shopping:hover {
+    cursor: pointer;
+    background-color: #fbb314;
+    color: brown;
+}
+
+.fa-bars {
+    background-color: brown;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 2rem;
+    padding: 0.6em;
+    position: relative;
+    left: 23.9rem;
+    top: -6rem;
+}
+
+.fa-bars:hover {
+    cursor: pointer;
+    background-color: #fbb314;
+    color: brown;
+}
+
+.fa-heart {
+
+    color: #250605;
+    font-size: 20px;
+
+}
+
+.fa-heart:hover {
+    color: brown;
+}
+
+.btn1 {
+    text-align: center;
+    background-color: #fbb314;
+    color: #250605;
+    font-size: 20px;
+    border-radius: 54rem;
+    border: none;
+    padding: 0.6em;
+    position: relative;
+    left: 17em;
+    top: -2.2rem;
+}
+
+.btn1:hover {
+    cursor: pointer;
+    background-color: white;
+    color: brown;
+}
+
+.fa-thumbs-down {
+
+    color: #fbb314;
+    font-size: 20px;
+
+}
+
+.btn2 {
+    background-color: #250605;
+    color: #fbb314;
+    font-size: 20px;
+    border-radius: 2rem;
+    padding: 0.6em;
+    position: relative;
+    border: none;
+    left: 14.8em;
+    top: 1.5rem;
+}
+
+.btn2:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #250605
+}
+
+.fa-thumbs-down:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #250605;
+}
+
+.ingredients-head {
+    font-weight: bold;
+    color: brown;
+
+    margin: 5px;
+    margin-top: 30px;
+    font-size: 17px;
+}
+
+.ingredients-box {
+    margin: 5px;
+    margin-right: 40px;
+}
+
+.like-active {
+    background-color: white;
+}
+
+.dislike-active {
+    background-color: white;
+}

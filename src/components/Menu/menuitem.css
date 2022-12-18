@@ -1,0 +1,26 @@
+.containeritem {
+    margin-top: 2rem;
+    width: 510px;
+    height: auto;
+    left: 585px;
+    border: 10px;
+    border-color: brown;
+    border-radius: 30px;
+    background-color: antiquewhite;
+    padding: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.servings {
+    margin: 5px;
+}
+
+.ingredients-box {
+    margin: 5px;
+    margin-right: 40px;
+}
